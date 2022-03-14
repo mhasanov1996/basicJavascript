@@ -1,0 +1,12 @@
+.left {
+  height: 100px;
+  background-color: blue;
+}
+.middle {
+  background-color: red;
+  height: 100px;
+}
+.end {
+  background-color: green;
+  height: 100px;
+}
