@@ -10,3 +10,22 @@
   background-color: green;
   height: 100px;
 }
+
+.btn {
+  margin: 20px;
+}
+
+body {
+  text-align: center;
+}
+
+.myBox {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+}
+
+.colorChanger {
+  margin: 20px;
+}
